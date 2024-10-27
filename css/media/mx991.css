@@ -1,0 +1,45 @@
+
+/*  */
+
+@media (max-width: 991px) {
+
+
+/* start footer 1 */
+    .footer-1 .footer_1 .footer-top .container,
+    .footer-1 .footer_1 .footer-bottom .container,
+    .footer-1 .footer_2 .container,
+    .footer-1 .footer_3 .container {
+        flex-direction: column;
+    }
+
+    .footer-1 .footer_1 .col2 {
+        justify-content: flex-start;
+        flex-wrap: wrap;
+    }
+
+
+
+/* start footer 2 */
+
+
+
+
+
+
+
+
+/* start footer 1 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
